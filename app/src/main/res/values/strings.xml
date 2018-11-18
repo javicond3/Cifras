@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cifras</string>
+    <string-array name="spinner">
+        <item>Calculadora 1</item>
+        <item>Calculadora 2</item>
+    </string-array>
+</resources>
